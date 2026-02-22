@@ -4,7 +4,7 @@ A modern blog platform built with Next.js that demonstrates
 the use of SSG and SSR rendering strategies.
 
 ## 🔗 Live Demo
-[View Live]()
+[View Live](https://blog-platform-ten-woad.vercel.app/)
 
 ## ✨ Features
 - SSG (Static Site Generation) for homepage — fast loading
