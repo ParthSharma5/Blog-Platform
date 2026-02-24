@@ -62,4 +62,18 @@ lack of capacity or capability .The solution may be add to another server.
 
 ```
 
+
+## What is Elasticity ?
+
+Elasticity in cloud computing refers to the ability of a system to rapidly
+scale its resources up or down in response to changing demand .This dynamic allocation of the resources ensure optimal performance and cost efficiently
+
+**Rapid Scaling:-** Resources can be quickly to add or remove resources to meet
+fluctuating demands
+
+**Automatic Scaling:-** Cloud provider often offer automated scaling mechanism that adjust resources based on the predefined metrics
+
+**Pay per use:-** You only pay for the resources you consume, making it cost effective to scale up or down as needed
+
+
 **In future we have to add more Content in it Stay tuned!**
